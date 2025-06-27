@@ -1,0 +1,6 @@
+id=KernelSU-Manual
+name=KernelSU Manual Inject
+version=1.0.5
+versionCode=105
+author=ChatGPT
+description=Injects KernelSU manually via Magisk module using ksuinit and support binaries.
